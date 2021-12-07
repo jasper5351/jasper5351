@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently selflearning python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...jasper5351*( "*"=@gmail.com)
+- 📫 How to reach me ...jasper5351** ( "**"=@gmail.com)
 
 <!---
 jasper5351/jasper5351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
